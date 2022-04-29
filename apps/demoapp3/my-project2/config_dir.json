@@ -1,0 +1,12 @@
+{
+  "appName": "demoapp3",
+  "userGivenName": "demoapp3",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "guestbook",
+  "srcRepoURL": "https://github.com/Nikhilpurva/argocd-example-apps.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "exclude": "",
+  "include": ""
+}
